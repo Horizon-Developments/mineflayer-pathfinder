@@ -1,0 +1,4 @@
+node_modules/
+.mc-server/
+*.bak
+.DS_Store
